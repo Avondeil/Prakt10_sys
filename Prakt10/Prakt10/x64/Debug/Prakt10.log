@@ -1,4 +1,4 @@
 ﻿  Prakt10.cpp
-C:\Users\st310-04\Documents\Malugin\Prakt10\Prakt10.cpp(67,13): warning C4311: приведение типов: усечение указателя из "HANDLE" в "int"
-C:\Users\st310-04\Documents\Malugin\Prakt10\Prakt10.cpp(67,13): warning C4302: приведение типов: усечение из "HANDLE" к "int"
+C:\Users\st310-04\Documents\Malugin\Prakt10\Prakt10.cpp(56,25): warning C4311: приведение типов: усечение указателя из "HANDLE" в "int"
+C:\Users\st310-04\Documents\Malugin\Prakt10\Prakt10.cpp(56,25): warning C4302: приведение типов: усечение из "HANDLE" к "int"
   Prakt10.vcxproj -> C:\Users\st310-04\Documents\Malugin\Prakt10\x64\Debug\Prakt10.exe
